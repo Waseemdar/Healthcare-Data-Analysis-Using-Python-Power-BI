@@ -156,7 +156,6 @@ Data Analyst | Power BI Developer | MEAL Coordinator | Consultant- Govt & Public
 
 | Platform         | Link                                                                 |
 |------------------|----------------------------------------------------------------------|
-| 💼 LinkedIn      | [Waseem Ahmad Dar](https://www.linkedin.com/in/waseem-ahmad-dar-263a12133)    |
 | 🧑‍💻 GitHub        | [GitHub Profile](https://github.com/Waseemdar)                  |
 | 📓 Google Colab   | [Open Python Notebook](https://colab.research.google.com/drive/1dRKSe6gwG5TrLbHUzJG55k4dr2cJ6B-A?usp=sharing&utm_source=chatgpt.com#scrollTo=P9sg2a_HYhEZ) |
 | 📊 Power BI       | [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWQ3NWE4MTctNGEzOC00ZDZhLTljN2YtMDU2NTQ2MjNhMzJlIiwidCI6ImYxNjYxNTY4LTMwMjgtNDMyNC05M2E3LWFlNjI4YWE3YjcwOSJ9) |
